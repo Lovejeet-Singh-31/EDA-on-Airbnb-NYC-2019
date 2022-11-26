@@ -24,6 +24,6 @@ Lovejeet Singh | Data Scientist | Machine Learning Engineer | Data Science enthu
 Special thanks to AlmaBetter
 
 Contact me for Data Science Project Collaborations
-
+<a href=”https://www.linkedin.com/in/lovejeet-singh31/"><img align=”left” src=”https://raw.githubusercontent.com/Lovejeet-Singh-31/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 
